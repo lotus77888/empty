@@ -1,9 +1,4 @@
 {
- "scripts": {
-    "post-install-cmd": [
-        "chmod -R 777 vendor"
-    ]
- }
  {
   "require" : {
     "silex/silex": "^2.0.4",
